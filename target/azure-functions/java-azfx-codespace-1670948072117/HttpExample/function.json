@@ -1,6 +1,6 @@
 {
   "scriptFile" : "../java-azfx-codespace-1.0-SNAPSHOT.jar",
-  "entryPoint" : "com.function.Function.run",
+  "entryPoint" : "com.function.HttpExample.run",
   "bindings" : [ {
     "type" : "httpTrigger",
     "direction" : "in",
